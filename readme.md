@@ -1,2 +1,2 @@
-# You can find the deck here https://rhi.pe/sqlth
+# You can find the deck here
 # https://github.com/Brucius/sqlThai
